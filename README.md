@@ -97,3 +97,4 @@ Working on this internship task gave me a better understanding of how artificial
 
 OUTPUT:
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1901e97d-90ca-4145-afcb-250480c50df2" />
