@@ -94,3 +94,6 @@ Visualizing results using real-world metrics
 Managing files and submissions via GitHub
 
 Working on this internship task gave me a better understanding of how artificial intelligence can be applied to solve practical problems like image recognition. It also helped me get more confident with Python programming, PyTorch syntax, and machine learning workflows.
+
+OUTPUT:
+
