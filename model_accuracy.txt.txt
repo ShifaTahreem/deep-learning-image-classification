@@ -1,0 +1,10 @@
+Model: Simple Neural Network using PyTorch  
+Dataset: MNIST (Handwritten Digit Recognition)
+
+Final Accuracy: 96.68%  
+Loss: [Your final loss value from the last epoch]  
+
+Training Epochs: 5  
+Batch Size: 64  
+
+Framework: PyTorch  
